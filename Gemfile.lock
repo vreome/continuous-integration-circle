@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     activesupport (6.0.3.6)
+
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
@@ -40,6 +41,7 @@ GEM
     gemoji (3.0.1)
     github-pages (214)
       github-pages-health-check (= 1.17.0)
+
       jekyll (= 3.9.0)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
@@ -284,3 +286,4 @@ DEPENDENCIES
 
 BUNDLED WITH
    2.2.9
+
